@@ -1,41 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff99&height=250&section=header&text=C0BRAKAI&fontSize=60&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20OSINT%20%7C%20CTF&descAlignY=60&descAlign=50" alt="Header" />
+<img src="https://github.com/C0braKai.png" width="220" alt="C0braKai photo" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=760&lines=Initializing+Cyber+Profile...;Penetration+Tester;CTF+Player;OSINT+%7C+Linux+%7C+Security;Access+Granted..." alt="Typing animation" />
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                     🔒 C0BRAKAI - PROFILE 🔒                 ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                               ┃
+┃  ██████╗ ██████╗ ██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ██╗┃
+┃ ██╔════╝██╔═████╗██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██║┃
+┃ ██║     ██║██╔██║██████╔╝██████╔╝███████║█████╔╝ ███████║██║┃
+┃ ██║     ████╔╝██║██╔══██╗██╔══██╗██╔══██║██╔═██╗ ██╔══██║██║┃
+┃ ╚██████╗╚██╔╝ ██║██████╔╝██║  ██║██║  ██║██║  ██╗██║  ██║██║┃
+┃  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝┃
+┃                                                               ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  Role    : Cybersecurity Enthusiast & Penetration Tester    ┃
+┃  Focus   : Security Testing | Bug Hunting | OSINT | CTF     ┃
+┃  Stack   : Python | PowerShell | Linux | Web Security       ┃
+┃  Status  : Leveling Up & Learning...                        ┃
+┃  Mindset : Offensive | Creative | Persistent                ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                   [ACCESS GRANTED] 🎯 READY                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 <img src="https://komarev.com/ghpvc/?username=C0braKai&color=00ff99&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://github.com/C0braKai.png" width="220" alt="C0braKai photo" />
-</p>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    🔓 C0BRAKAI - PROFILE 🔓                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  ██████╗ ██████╗ ██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ██╗║
-║ ██╔════╝██╔═████╗██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██║║
-║ ██║     ██║██╔██║██████╔╝██████╔╝███████║█████╔╝ ███████║██║║
-║ ██║     ████╔╝██║██╔══██╗██╔══██╗██╔══██║██╔═██╗ ██╔══██║██║║
-║ ╚██████╗╚██╔╝ ██║██████╔╝██║  ██║██║  ██║██║  ██╗██║  ██║██║║
-║  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝║
-║                                                               ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ➤ Role    : Cybersecurity Enthusiast & Penetration Tester   ║
-║  ➤ Focus   : Security Testing | Bug Hunting | OSINT | CTF    ║
-║  ➤ Stack   : Python | PowerShell | Linux | Web Security     ║
-║  ➤ Status  : [████████░░] Leveling Up & Learning...         ║
-║  ➤ Mindset : Offensive | Creative | Persistent              ║
-╠═══════════════════════════════════════════════════════════════╣
-║                  [ACCESS GRANTED] 🎯 READY                   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 ---
 
