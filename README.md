@@ -10,15 +10,18 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
-
 ```bash
 ┌──(c0brakai㉿system)-[~]
-└─$ cat about_me.txt
+└─$ cat dashboard.txt
 
-> Name    : Devansh Patel
-> Role    : Cyber Security Student
-> Base    : India 🇮🇳
-> Focus   : Penetration Testing | OSINT | CTF Player | OWASP | Linux
-> Tools   : Nmap, Burp Suite, Metasploit, Wireshark, Gobuster, Kali Linux, ZenMap, Dirbuster, Nessus, Shodan, ZAP Proxy
-> Status  : [▓▓▓▓▓▓▓░░░] Leveling Up...
+<table> <tr> <td width="50%">
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=C0braKai&show_icons=true&theme=tokyonight"/> </td> <td width="50%">
+🔥 Streak Stats
+<img src="https://streak-stats.demolab.com?user=C0braKai&theme=tokyonight"/> </td> </tr> <tr> <td width="50%">
+🎯 TryHackMe
+<a href="https://tryhackme.com/p/ImR00t3"> <img src="https://tryhackme-badges.s3.amazonaws.com/ImR00t3.png"/> </a> </td> <td width="50%" align="center">
+🚧 Coming Soon
+<p>More Projects / Labs / Tools</p> </td> </tr> </table>
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/C0braKai/C0braKai/blob/output/github-contribution-grid-snake.svg"/> </p>
