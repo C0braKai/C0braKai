@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | Penetration Testing | OSINT | CTF Player
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Tester;OSINT+Learner;CTF+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Penetration+Tester;OSINT+Learner;CTF+Player;OWASP+%7C+Linux+%7C+Security" />
 </p>
 
 ---
@@ -18,9 +18,13 @@ Devansh Patel
 B.Tech CSE (Cyber Security) Student
 
 > focus
-Penetration Testing | OSINT | Web Security
+Penetration Testing | OSINT | CTF Player | OWASP | Linux
 
 > tools
+Nmap, Burp Suite, Metasploit, Wireshark, Gobuster, Kali Linux, ZenMap, Dirbuster, Nessus, Shodan, ZAP Proxy
+
+> status
+Leveling up...
 Nmap, Metasploit, Wireshark, Linux
 
 > status
