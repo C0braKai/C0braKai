@@ -13,15 +13,3 @@
 ```bash
 ┌──(c0brakai㉿system)-[~]
 └─$ cat dashboard.txt
-
-<table> <tr> <td width="50%">
-📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=C0braKai&show_icons=true&theme=tokyonight"/> </td> <td width="50%">
-🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=C0braKai&theme=tokyonight"/> </td> </tr> <tr> <td width="50%">
-🎯 TryHackMe
-<a href="https://tryhackme.com/p/ImR00t3"> <img src="https://tryhackme-badges.s3.amazonaws.com/ImR00t3.png"/> </a> </td> <td width="50%" align="center">
-🚧 Coming Soon
-<p>More Projects / Labs / Tools</p> </td> </tr> </table>
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/C0braKai/C0braKai/blob/output/github-contribution-grid-snake.svg"/> </p>
