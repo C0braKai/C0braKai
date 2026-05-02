@@ -58,11 +58,11 @@
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="50" alt="Ubuntu"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" alt="Windows"/></a>&nbsp;
   <a href="https://www.apple.com/macos/"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="50" alt="MacOS"/></a>&nbsp;
-  <a href="https://www.wireshark.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wireshark_icon.svg/256px-Wireshark_icon.svg.png" width="50" alt="Wireshark"/></a>&nbsp;
-  <a href="https://portswigger.net/burp"><img src="https://portswigger.net/burp/favicon.ico" width="50" alt="Burp"/></a>&nbsp;
-  <a href="https://nmap.org/"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" alt="Nmap"/></a>&nbsp;
-  <a href="https://www.metasploit.com/"><img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/app/assets/images/favicon.ico" width="50" alt="Metasploit"/></a>&nbsp;
-  <a href="https://www.shodan.io/"><img src="https://static.shodan.io/shodan_logo.png" width="50" alt="Shodan"/></a>&nbsp;
+  <a href="https://www.wireshark.org/"><img src="https://www.wireshark.org/download/icon/wireshark-icon-64x64.png" width="50" alt="Wireshark"/></a>&nbsp;
+  <a href="https://portswigger.net/burp"><img src="https://portswigger.net/burp/img/logo.svg" width="50" alt="Burp"/></a>&nbsp;
+  <a href="https://nmap.org/"><img src="https://nmap.org/images/nmap-logo.svg" width="50" alt="Nmap"/></a>&nbsp;
+  <a href="https://www.metasploit.com/"><img src="https://www.rapid7.com/api/v1/cms/resources/metasploit-logo-standard.svg" width="50" alt="Metasploit"/></a>&nbsp;
+  <a href="https://www.shodan.io/"><img src="https://www.shodan.io/static/img/logo.svg" width="50" alt="Shodan"/></a>&nbsp;
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="50" alt="GitLab"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/></a>&nbsp;
