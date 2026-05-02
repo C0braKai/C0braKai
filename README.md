@@ -58,11 +58,6 @@
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="50" alt="Ubuntu"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" alt="Windows"/></a>&nbsp;
   <a href="https://www.apple.com/macos/"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="50" alt="MacOS"/></a>&nbsp;
-  <a href="https://www.wireshark.org/"><img src="https://raw.githubusercontent.com/wireshark/wireshark/master/packaging/macosx/AppIcon.iconset/icon_512x512.png" width="50" alt="Wireshark"/></a>&nbsp;
-  <a href="https://portswigger.net/burp"><img src="https://raw.githubusercontent.com/portswigger/burp-extensions-montoya-api/main/src/main/resources/burp-logo.png" width="50" alt="Burp"/></a>&nbsp;
-  <a href="https://nmap.org/"><img src="https://raw.githubusercontent.com/nmap/nmap/master/docs/icon.svg" width="50" alt="Nmap"/></a>&nbsp;
-  <a href="https://www.metasploit.com/"><img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/lib/msf/base/sessions/meterpreter/ui/console/images/meterpreter.png" width="50" alt="Metasploit"/></a>&nbsp;
-  <a href="https://www.shodan.io/"><img src="https://raw.githubusercontent.com/achillean/shodan-python/master/shodan/icon.png" width="50" alt="Shodan"/></a>&nbsp;
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="50" alt="GitLab"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/></a>&nbsp;
