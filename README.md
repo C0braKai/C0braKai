@@ -61,8 +61,8 @@
   <a href="https://www.wireshark.org/"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="50" alt="Wireshark"/></a>&nbsp;
   <a href="https://portswigger.net/burp"><img src="https://skillicons.dev/icons?i=burp&theme=dark" width="50" alt="Burp"/></a>&nbsp;
   <a href="https://nmap.org/"><img src="https://skillicons.dev/icons?i=nmap&theme=dark" width="50" alt="Nmap"/></a>&nbsp;
-  <a href="https://www.metasploit.com/"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="50" alt="Metasploit"/></a>&nbsp;
-  <a href="https://www.shodan.io/"><img src="https://www.shodan.io/static/img/favicon.png" width="50" alt="Shodan"/></a>&nbsp;
+  <a href="https://www.metasploit.com/"><img src="https://skillicons.dev/icons?i=metasploit&theme=dark" width="50" alt="Metasploit"/></a>&nbsp;
+  <a href="https://www.shodan.io/"><img src="https://skillicons.dev/icons?i=shodan&theme=dark" width="50" alt="Shodan"/></a>&nbsp;
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="50" alt="GitLab"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/></a>&nbsp;
