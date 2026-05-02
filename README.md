@@ -53,7 +53,9 @@
 <p align="center">
   <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="50" alt="Kali"/></a>&nbsp;
   <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="50" alt="Arch"/></a>&nbsp;
-  <a href="https://www.linux.com/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" alt="Linux"/></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" alt="Linux"/></a>&nbsp;
+  <a href="https://www.debian.org/"><img src="https://skillicons.dev/icons?i=debian&theme=dark" width="50" alt="Debian"/></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="50" alt="Ubuntu"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" alt="Windows"/></a>&nbsp;
   <a href="https://www.apple.com/macos/"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="50" alt="MacOS"/></a>&nbsp;
   <a href="https://www.wireshark.org/"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="50" alt="Wireshark"/></a>&nbsp;
@@ -65,7 +67,8 @@
   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="50" alt="GitLab"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" alt="VS Code"/></a>&nbsp;
-  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="50" alt="Vim"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="50" alt="PyCharm"/></a>&nbsp;
+  <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="50" alt="Sublime"/></a>&nbsp;
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" alt="Python"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"/></a>&nbsp;
@@ -87,8 +90,7 @@
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" alt="Figma"/></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/windows/powershell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="50" alt="PowerShell"/></a>&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="50" alt="Bash"/></a>&nbsp;
-  <a href="https://claude.ai/"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="50" alt="Claude"/></a>&nbsp;
-  <a href="https://chatgpt.com/"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="50" alt="ChatGPT"/></a>
+  <a href="https://chat.openai.com/"><img src="https://skillicons.dev/icons?i=openai&theme=dark" width="50" alt="OpenAI"/></a>
 </p>
 
 ---
