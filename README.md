@@ -51,20 +51,12 @@
 ## Toolbox
 
 <p align="center">
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/images/kali-dragon-icon.svg" width="60" height="60" alt="Kali Linux" title="Kali Linux" /></a>&nbsp;&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="60" height="60" alt="Wireshark" title="Wireshark" /></a>&nbsp;&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/cvvB9qJ/burpsuite.png" width="60" height="60" alt="Burp Suite" title="Burp Suite" /></a>&nbsp;&nbsp;
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="60" height="60" alt="Nmap" title="Nmap" /></a>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,burp,nmap,github,nodejs,react,html5,css3,js,vscode,powershell&theme=dark" alt="Main Tools" />
+</p>
+
+<p align="center">
   <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="60" height="60" alt="ZAP Proxy" title="ZAP Proxy" /></a>&nbsp;&nbsp;
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="60" height="60" alt="Metasploit" title="Metasploit" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" title="Node.js" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" title="React" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" title="HTML" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" title="CSS" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" alt="Visual Studio Code" title="VS Code" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/windows/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="60" height="60" alt="PowerShell" title="PowerShell" /></a>&nbsp;&nbsp;
   <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/favicon.png" width="60" height="60" alt="Shodan" title="Shodan" /></a>&nbsp;&nbsp;
   <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="60" height="60" alt="Claude AI" title="Claude AI" /></a>&nbsp;&nbsp;
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="60" height="60" alt="ChatGPT" title="ChatGPT" /></a>
