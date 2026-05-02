@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=90&weight=bold&duration=2000&color=FF0000&center=true&width=600&lines=C0BRAKAI" alt="CobraKai" />
+<img src="https://img.shields.io/badge/C0BRAKAI-FF0000?style=flat-square&labelColor=000000&fontSize=40&fontStyle=bold" alt="CobraKai" width="500" height="100" />
 
 <img src="https://github.com/C0braKai.png" width="220" alt="C0braKai photo" />
 
