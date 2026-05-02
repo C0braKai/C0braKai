@@ -50,23 +50,23 @@
 
 ## Toolbox
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="60" height="60" alt="Kali Linux" /></a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="60" height="60" alt="Wireshark" /></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=burp&theme=dark" width="60" height="60" alt="Burp Suite" /></a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nmap&theme=dark" width="60" height="60" alt="Nmap" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="GitHub" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60" alt="Node.js" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60" alt="JavaScript" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" alt="VS Code" /></a>
-  <a href="https://www.microsoft.com/en-us/windows/powershell" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="60" height="60" alt="PowerShell" /></a>
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="60" height="60" alt="ZAP Proxy" /></a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="60" height="60" alt="Metasploit" /></a>
-  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/favicon.png" width="60" height="60" alt="Shodan" /></a>
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="60" height="60" alt="Claude AI" /></a>
-  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="60" height="60" alt="ChatGPT" /></a>
-</div>
+<p align="center">
+  <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="50" alt="Kali"/></a>&nbsp;
+  <a href="https://www.wireshark.org/"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="50" alt="Wireshark"/></a>&nbsp;
+  <a href="https://portswigger.net/burp"><img src="https://skillicons.dev/icons?i=burp&theme=dark" width="50" alt="Burp"/></a>&nbsp;
+  <a href="https://nmap.org/"><img src="https://skillicons.dev/icons?i=nmap&theme=dark" width="50" alt="Nmap"/></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"/></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" alt="React"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" alt="VS Code"/></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows/powershell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="50" alt="PowerShell"/></a>&nbsp;
+  <a href="https://www.zaproxy.org/"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="50" alt="ZAP"/></a>&nbsp;
+  <a href="https://www.metasploit.com/"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="50" alt="Metasploit"/></a>&nbsp;
+  <a href="https://www.shodan.io/"><img src="https://www.shodan.io/static/img/favicon.png" width="50" alt="Shodan"/></a>&nbsp;
+  <a href="https://claude.ai/"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="50" alt="Claude"/></a>&nbsp;
+  <a href="https://chatgpt.com/"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="50" alt="ChatGPT"/></a>
+</p>
 
 ---
 
