@@ -44,16 +44,6 @@
       <img src="https://github-streak-sigma.vercel.app/?user=C0braKai&theme=tokyonight&hide_border=true" alt="C0braKai streak" height="200" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://tryhackme.com/p/ImR00t3" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/C0braKai/C0braKai/master/assets/thm_propic.png" alt="TryHackMe stats" height="200" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C0braKai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-    </td>
-  </tr>
 </table>
 
 ---
@@ -72,39 +62,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,powershell,bash,linux,git,github,html,css,js,ts,react,nextjs,fastapi,mysql,postgres,redis,docker,kubernetes,vscode&theme=dark" alt="Skills" />
 </p>
-
----
-
-## Setup TryHackMe Auto-Update
-
-To display your live TryHackMe stats, set up the GitHub Actions workflow:
-
-1. Create `.github/workflows/tryhackme-badge-workflow.yml` in your profile repo
-2. Add this code:
-
-```yaml
-name: TryHackMe Update Badge
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily
-  workflow_dispatch:
-
-jobs:
-  tryhackme-badge-update:
-    name: Update TryHackMe badge
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          username: "ImR00t3"
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-```
-
-3. Create an `assets/` folder in your repo root
-4. The badge will auto-update every 24 hours!
 
 ---
 
