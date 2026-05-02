@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=48&duration=2000&color=FF0000&center=true&lines=C0BRAKAI" alt="CobraKai" />
+
 <img src="https://github.com/C0braKai.png" width="220" alt="C0braKai photo" />
 
 ```
