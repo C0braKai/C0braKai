@@ -51,16 +51,29 @@
 ## Toolbox
 
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="40" height="40" alt="Kali Linux" /></a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40" alt="Wireshark" /></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/cvvB9qJ/burpsuite.png" width="40" height="40" alt="Burp Suite" /></a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40" alt="Nmap" /></a>
-  <a href="https://github.com/sqlmapproject/sqlmap" target="_blank" rel="noreferrer"><img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" width="40" height="40" alt="SQLMap" /></a>
-  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/64c2362fbaf5db5f0fbefd68/655758f4a0cc090fa19e5847_aircrack-ng-logo.svg" width="40" height="40" alt="Aircrack-ng" /></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="50" height="50" alt="Kali Linux" title="Kali Linux" /></a>&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="50" height="50" alt="Wireshark" title="Wireshark" /></a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/cvvB9qJ/burpsuite.png" width="50" height="50" alt="Burp Suite" title="Burp Suite" /></a>&nbsp;
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50" alt="Nmap" title="Nmap" /></a>&nbsp;
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://www.zaproxy.org/img/logo.png" width="50" height="50" alt="ZAP Proxy" title="ZAP Proxy" /></a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="50" height="50" alt="Metasploit" title="Metasploit" /></a>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,powershell,bash,linux,git,github,html,css,js,ts,react,nextjs,fastapi,mysql,postgres,redis,docker,kubernetes,vscode&theme=dark" alt="Skills" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js" /></a>&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" title="HTML" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" title="CSS" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" /></a>
+</p>
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code" title="VS Code" /></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="50" height="50" alt="PowerShell" title="PowerShell" /></a>&nbsp;
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/favicon.png" width="50" height="50" alt="Shodan" title="Shodan" /></a>&nbsp;
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="50" height="50" alt="Claude AI" title="Claude AI" /></a>&nbsp;
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="50" height="50" alt="ChatGPT" title="ChatGPT" /></a>
 </p>
 
 ---
