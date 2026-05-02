@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">C0braKai</h1>
 
-<!--
-**C0braKai/C0braKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Cybersecurity Enthusiast | Penetration Testing | OSINT | CTF Player
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Penetration+Tester;OSINT+Learner;CTF+Player" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```bash
+> whoami
+Devansh Patel
+
+> role
+B.Tech CSE (Cyber Security) Student
+
+> focus
+Penetration Testing | OSINT | Web Security
+
+> tools
+Nmap, Metasploit, Wireshark, Linux
+
+> status
+Leveling up...
