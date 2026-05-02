@@ -14,15 +14,27 @@
   <img src="https://github.com/C0braKai.png" width="220" alt="C0braKai photo" />
 </p>
 
-```bash
-┌──(c0brakai㉿system)-[~]
-└─$ cat about_me.txt
-
-> Name    : C0braKai
-> Role    : Cybersecurity Enthusiast
-> Focus   : Penetration Testing | Bug Hunting | OSINT | CTF
-> Stack   : Python | PowerShell | Linux | Web Security
-> Status  : [▓▓▓▓▓▓▓▓░░] Leveling Up...
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    🔓 C0BRAKAI - PROFILE 🔓                  ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  ██████╗ ██████╗ ██████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ██╗║
+║ ██╔════╝██╔═████╗██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██║║
+║ ██║     ██║██╔██║██████╔╝██████╔╝███████║█████╔╝ ███████║██║║
+║ ██║     ████╔╝██║██╔══██╗██╔══██╗██╔══██║██╔═██╗ ██╔══██║██║║
+║ ╚██████╗╚██╔╝ ██║██████╔╝██║  ██║██║  ██║██║  ██╗██║  ██║██║║
+║  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝║
+║                                                               ║
+╠═══════════════════════════════════════════════════════════════╣
+║  ➤ Role    : Cybersecurity Enthusiast & Penetration Tester   ║
+║  ➤ Focus   : Security Testing | Bug Hunting | OSINT | CTF    ║
+║  ➤ Stack   : Python | PowerShell | Linux | Web Security     ║
+║  ➤ Status  : [████████░░] Leveling Up & Learning...         ║
+║  ➤ Mindset : Offensive | Creative | Persistent              ║
+╠═══════════════════════════════════════════════════════════════╣
+║                  [ACCESS GRANTED] 🎯 READY                   ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
