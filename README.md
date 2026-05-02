@@ -51,15 +51,15 @@
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,burp,nmap,github,nodejs,react,html5,css3,js,vscode,powershell&theme=dark" alt="Main Tools" />
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,burp,nmap,github,nodejs,react,js,vscode,powershell,cpp,java&theme=dark" alt="Tools" />
 </p>
 
 <p align="center">
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="60" height="60" alt="ZAP Proxy" title="ZAP Proxy" /></a>&nbsp;&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="60" height="60" alt="Metasploit" title="Metasploit" /></a>&nbsp;&nbsp;
-  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/favicon.png" width="60" height="60" alt="Shodan" title="Shodan" /></a>&nbsp;&nbsp;
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="60" height="60" alt="Claude AI" title="Claude AI" /></a>&nbsp;&nbsp;
-  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="60" height="60" alt="ChatGPT" title="ChatGPT" /></a>
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="55" height="55" alt="ZAP Proxy" /></a>&nbsp;&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="55" height="55" alt="Metasploit" /></a>&nbsp;&nbsp;
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://www.shodan.io/static/img/favicon.png" width="55" height="55" alt="Shodan" /></a>&nbsp;&nbsp;
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="55" height="55" alt="Claude AI" /></a>&nbsp;&nbsp;
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="55" height="55" alt="ChatGPT" /></a>
 </p>
 
 ---
