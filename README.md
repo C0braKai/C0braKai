@@ -52,18 +52,41 @@
 
 <p align="center">
   <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="50" alt="Kali"/></a>&nbsp;
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="50" alt="Arch"/></a>&nbsp;
+  <a href="https://www.linux.com/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" alt="Linux"/></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" alt="Windows"/></a>&nbsp;
+  <a href="https://www.apple.com/macos/"><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="50" alt="MacOS"/></a>&nbsp;
   <a href="https://www.wireshark.org/"><img src="https://skillicons.dev/icons?i=wireshark&theme=dark" width="50" alt="Wireshark"/></a>&nbsp;
   <a href="https://portswigger.net/burp"><img src="https://skillicons.dev/icons?i=burp&theme=dark" width="50" alt="Burp"/></a>&nbsp;
   <a href="https://nmap.org/"><img src="https://skillicons.dev/icons?i=nmap&theme=dark" width="50" alt="Nmap"/></a>&nbsp;
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"/></a>&nbsp;
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" alt="React"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" alt="VS Code"/></a>&nbsp;
-  <a href="https://www.microsoft.com/en-us/windows/powershell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="50" alt="PowerShell"/></a>&nbsp;
-  <a href="https://www.zaproxy.org/"><img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/src/images/zap_icon_64x64.png" width="50" alt="ZAP"/></a>&nbsp;
   <a href="https://www.metasploit.com/"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="50" alt="Metasploit"/></a>&nbsp;
   <a href="https://www.shodan.io/"><img src="https://www.shodan.io/static/img/favicon.png" width="50" alt="Shodan"/></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>&nbsp;
+  <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="50" alt="GitLab"/></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" alt="VS Code"/></a>&nbsp;
+  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="50" alt="Vim"/></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"/></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" alt="Python"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" alt="HTML"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" alt="CSS"/></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" alt="React"/></a>&nbsp;
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="50" alt="Vue"/></a>&nbsp;
+  <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50" alt="Angular"/></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="50" alt="Rust"/></a>&nbsp;
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="50" alt="Go"/></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" alt="Java"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" alt="Docker"/></a>&nbsp;
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" alt="Kubernetes"/></a>&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" alt="Postman"/></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" alt="AWS"/></a>&nbsp;
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="50" alt="Azure"/></a>&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50" alt="Firebase"/></a>&nbsp;
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="50" alt="GraphQL"/></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" alt="Figma"/></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows/powershell"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="50" alt="PowerShell"/></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="50" alt="Bash"/></a>&nbsp;
   <a href="https://claude.ai/"><img src="https://cdn.prod.website-files.com/641c3f04a8eb5e8d56b3b4f0/641c3f04a8eb5e7a3fb3ba9a_Favicon.png" width="50" alt="Claude"/></a>&nbsp;
   <a href="https://chatgpt.com/"><img src="https://cdn-icons-png.flaticon.com/512/11701/11701374.png" width="50" alt="ChatGPT"/></a>
 </p>
