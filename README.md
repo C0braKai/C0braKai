@@ -1,10 +1,8 @@
 <div align="center">
 
-# C0BRAKAI
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF3B3B&center=true&vCenter=true&width=760&lines=Cybersecurity+Enthusiast+%7C+Penetration+Tester;Security+Testing+%7C+Bug+Hunting+%7C+OSINT+%7C+CTF;Automate.+Exploit.+Learn.+Repeat." alt="Typing intro" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:111827,100:ff2d2d&text=C0BRAKAI&fontColor=ffffff&fontAlignY=34&fontSize=52&desc=Offensive%20Security%20Learner&descAlignY=58" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:111827,100:ff2d2d&text=Devansh%20Patel&fontColor=ffffff&fontAlignY=34&fontSize=52&desc=Offensive%20Security%20Learner&descAlignY=58" alt="Header banner" />
 
 <img src="https://github.com/C0braKai.png" width="170" alt="C0braKai profile photo" />
 
