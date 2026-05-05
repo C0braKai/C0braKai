@@ -4,12 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:111827,100:ff2d2d&text=Devansh%20Patel&fontColor=ffffff&fontAlignY=34&fontSize=52&desc=Offensive%20Security%20Learner&descAlignY=58" alt="Header banner" />
 
-<img src="https://github.com/C0braKai.png" width="170" alt="C0braKai profile photo" />
+<img src="https://github.com/D3v4nshPat3l.png" width="170" alt="D3v4nshPat3l profile photo" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=C0braKai&style=for-the-badge&color=ff3b3b&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/C0braKai?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=D3v4nshPat3l&style=for-the-badge&color=ff3b3b&labelColor=0d1117" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/D3v4nshPat3l?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 
 </div>
@@ -55,13 +55,13 @@ Mindset : Offensive | Creative | Persistent
 ## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=C0braKai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="C0braKai stats" height="170" />
-  <img src="https://github-streak-sigma.vercel.app/?user=C0braKai&theme=tokyonight&hide_border=true" alt="C0braKai streak" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C0braKai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="D3v4nshPat3l stats" height="170" />
+  <img src="https://github-streak-sigma.vercel.app/?user=D3v4nshPat3l&theme=tokyonight&hide_border=true" alt="D3v4nshPat3l streak" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=D3v4nshPat3l&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0braKai&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ Mindset : Offensive | Creative | Persistent
 ## Connect
 
 <p align="left">
-  <a href="https://www.github.com/C0braKai"><img src="https://img.shields.io/badge/GitHub-C0braKai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/GitHub-D3v4nshPat3l-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
