@@ -51,6 +51,8 @@ If it's not exploitable, it's not tested enough.
 
 ## `// 00 · ABOUT`
 
+</div>
+
 ```yaml
 handle     : D3v4nshPat3l
 name       : Devansh Patel
@@ -61,6 +63,8 @@ interests  : Offensive Security · OSINT · CTF · Exploit Dev · Threat Intel
 open_to    : Security Research · CTF Teams · Bug Bounty · Red Team Projects
 status     : "Leveling Up Daily."
 ```
+
+<div align="center">
 
 <br/>
 
