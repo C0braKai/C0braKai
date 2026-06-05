@@ -53,6 +53,8 @@ If it's not exploitable, it's not tested enough.
 
 <br/>
 
+<div align="center">
+
 ## `// 00 · ABOUT`
 
 ```yaml
@@ -73,11 +75,14 @@ I build repeatable recon and testing automation with Python and shell scripting.
 I enjoy web exploitation, Linux internals, and CTF challenges that teach depth.
 
 **Currently working on:**
-- Building a stronger recon-to-report workflow for web targets
-- Improving exploit development fundamentals and payload testing discipline
-- Documenting reproducible security notes and mini playbooks
+
+Building a stronger recon-to-report workflow for web targets
+Improving exploit development fundamentals and payload testing discipline
+Documenting reproducible security notes and mini playbooks
 
 `#CyberSecurity` `#PenTesting` `#OSINT` `#CTF` `#BugBounty` `#RedTeam` `#OffensiveSecurity`
+
+</div>
 
 <br/>
 
@@ -108,6 +113,8 @@ I enjoy web exploitation, Linux internals, and CTF challenges that teach depth.
 </div>
 
 <br/>
+
+<div align="center">
 
 ## `// 02 · TECH STACK`
 
@@ -173,26 +180,30 @@ I enjoy web exploitation, Linux internals, and CTF challenges that teach depth.
 ![TOR](https://img.shields.io/badge/TOR-brightgreen?style=flat-square&logo=tor-project&logoColor=000)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-brightgreen?style=flat-square&logo=Raspberry-Pi&logoColor=000)
 
+</div>
+
 <br/>
+
+<div align="center">
 
 ## `// 03 · TOOLBOX`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,kali,debian,ubuntu,git,github,vscode,docker,postman&theme=dark" alt="Core toolbox" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,kali,debian,ubuntu,git,github,vscode,docker,postman&theme=dark" alt="Core toolbox" />
 
 <details>
   <summary><strong>Learning and exploring stack</strong></summary>
 
   <br />
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,rust,go,java,aws,azure,kubernetes&theme=dark" alt="Learning and exploring" />
-</div>
 
 </details>
 
+</div>
+
 <br/>
+
+<div align="center">
 
 ## `// 04 · OPEN TO COLLABORATE`
 
@@ -204,25 +215,21 @@ I enjoy web exploitation, Linux internals, and CTF challenges that teach depth.
 🛠️  SYSTEMS              →  Low-latency · Embedded · Secure architecture · Automation
 ```
 
-<div align="center">
-
-**If our interests align → [reach out directly](mailto:devanshmpatel982@gmail.com)**
+**If our interests align → [reach out directly](mailto:devanshpatel@example.com)**
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ## `// 05 · CONNECT`
 
-<p align="left">
-  <a href="https://www.github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/GitHub-D3v4nshPat3l-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<a href="https://www.github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/GitHub-D3v4nshPat3l-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/>
-
-<div align="center">
 
 ```
 DEVANSH PATEL  ·  @D3V4NSHPAT3L  ·  BUILT WITH INTENT
