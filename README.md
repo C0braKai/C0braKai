@@ -121,9 +121,7 @@ Documenting reproducible security notes and mini playbooks
 ![Bash](https://img.shields.io/badge/Bash-brightgreen?style=flat-square&logo=gnu-bash&logoColor=000)
 ![PowerShell](https://img.shields.io/badge/PowerShell-brightgreen?style=flat-square&logo=powershell&logoColor=000)
 ![Go](https://img.shields.io/badge/Go-brightgreen?style=flat-square&logo=go&logoColor=000)
-![Rust](https://img.shields.io/badge/Rust-brightgreen?style=flat-square&logo=rust&logoColor=000)
 ![C](https://img.shields.io/badge/C-brightgreen?style=flat-square&logo=c&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-brightgreen?style=flat-square&logo=javascript&logoColor=000)
 
 **OFFENSIVE SECURITY**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-222222?style=flat-square&logo=burpsuite&logoColor=ff3b3b)
@@ -157,26 +155,17 @@ Documenting reproducible security notes and mini playbooks
 ![Linux](https://img.shields.io/badge/Linux-brightgreen?style=flat-square&logo=linux&logoColor=000)
 ![Windows](https://img.shields.io/badge/Windows-brightgreen?style=flat-square&logo=windows&logoColor=000)
 
-**CLOUD & DEVOPS**
-![Docker](https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=ff3b3b)
-![AWS](https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazon-aws&logoColor=ff3b3b)
-![Azure](https://img.shields.io/badge/Azure-222222?style=flat-square&logo=microsoftazure&logoColor=ff3b3b)
-![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=ff3b3b)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-222222?style=flat-square&logo=cloudflare&logoColor=ff3b3b)
 
 **CTF & LEARNING**
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-222222?style=flat-square&logo=tryhackme&logoColor=ff3b3b)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-222222?style=flat-square&logo=hackthebox&logoColor=ff3b3b)
 ![OWASP](https://img.shields.io/badge/OWASP-222222?style=flat-square&logo=owasp&logoColor=ff3b3b)
-![HackerOne](https://img.shields.io/badge/HackerOne-222222?style=flat-square&logo=hackerone&logoColor=ff3b3b)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-222222?style=flat-square&logo=virustotal&logoColor=ff3b3b)
 
 **TOOLS & INFRA**
 ![VS Code](https://img.shields.io/badge/VS_Code-222222?style=flat-square&logo=visualstudiocode&logoColor=ff3b3b)
 ![Postman](https://img.shields.io/badge/Postman-222222?style=flat-square&logo=postman&logoColor=ff3b3b)
-![Selenium](https://img.shields.io/badge/Selenium-brightgreen?style=flat-square&logo=selenium&logoColor=000)
 ![TOR](https://img.shields.io/badge/TOR-brightgreen?style=flat-square&logo=tor-project&logoColor=000)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-brightgreen?style=flat-square&logo=Raspberry-Pi&logoColor=000)
 
 </div>
 
