@@ -219,8 +219,8 @@ Documenting reproducible security notes and mini playbooks
 <br/>
 
 ```
-                              DEVANSH PATEL  ·  @D3V4NSHPAT3L  ·  BUILT WITH INTENT
-                         CYBERSECURITY  ·  OFFENSIVE  ·  CTF  ·  OSINT  ·  HACKATHON WINNER
+                                 DEVANSH PATEL  ·  @D3V4NSHPAT3L  ·  BUILT WITH INTENT
+                                 CYBERSECURITY  ·  OFFENSIVE  ·  CTF  ·  OSINT  ·  HACKATHON WINNER
 ```
 
 *"Root access to knowledge, not shortcuts."*
