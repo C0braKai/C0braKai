@@ -196,11 +196,11 @@
   ## `// 04 · OPEN TO COLLABORATE`
 
   ```
-          🔐  OFFENSIVE SECURITY  →  Pen testing · Red teaming · Exploit dev · Vulnerability research
-          🕵️  OSINT & RECON        →  Threat intelligence · Digital forensics · Attribution
-          🏴  CTF & COMPETITIONS   →  Web exploitation · Crypto · Reverse engineering · Pwn
-          🛡️  DEFENSE & GRC        →  Incident response · SIEM · Compliance · Risk assessment
-          🛠️  SYSTEMS              →  Low-latency · Embedded · Secure architecture · Automation
+        🔐  OFFENSIVE SECURITY  →  Pen testing · Red teaming · Exploit dev · Vulnerability research
+        🕵️  OSINT & RECON        →  Threat intelligence · Digital forensics · Attribution
+        🏴  CTF & COMPETITIONS   →  Web exploitation · Crypto · Reverse engineering · Pwn
+        🛡️  DEFENSE & GRC        →  Incident response · SIEM · Compliance · Risk assessment
+        🛠️  SYSTEMS              →  Low-latency · Embedded · Secure architecture · Automation
   ```
 
   **If our interests align → [reach out directly](mailto:devanshpatel@example.com)**
