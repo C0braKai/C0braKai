@@ -26,6 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-patel-5ab00a219/)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/D3v4nshPat3l)
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ImR00t3)
+[![Medium](https://img.shields.io/badge/MEDIUM-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://v3n0m.medium.com/)
 
 ![](https://komarev.com/ghpvc/?username=D3v4nshPat3l&style=for-the-badge&color=ff3b3b&labelColor=0d1117)
 ![](https://img.shields.io/github/followers/D3v4nshPat3l?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
@@ -215,6 +216,7 @@ Documenting reproducible security notes and mini playbooks
 <a href="https://www.github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/GitHub-D3v4nshPat3l-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://v3n0m.medium.com/"><img src="https://img.shields.io/badge/Medium-v3n0m-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
 <br/>
 
