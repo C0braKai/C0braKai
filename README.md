@@ -87,33 +87,20 @@
 
   <div align="center">
 
-  ## `// 01 · GITHUB METRICS`
+ <div align="center">
 
-  <!--
-    NOTE: If stats cards don't load, it may be due to rate-limiting on public
-    Vercel instances. For guaranteed reliability, self-host your own instance
-    or use GitHub Actions to generate static SVG cards.
-    
-    Official repos:
-    - Stats:  https://github.com/anuraghazra/github-readme-stats
-    - Streak: https://github.com/DenverCoder1/github-readme-streak-stats
-    - Graph:  https://github.com/Ashutosh00710/github-readme-activity-graph
-  -->
+## `// 01 · GITHUB METRICS`
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b" alt="D3v4nshPat3l stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=ff3b3b&fire=ff4444&currStreakLabel=ff3b3b&sideLabels=aaaaaa&dates=555555" alt="D3v4nshPat3l streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&cache_seconds=1800" alt="D3v4nshPat3l stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=ff3b3b&fire=ff4444&currStreakLabel=ff3b3b&sideLabels=aaaaaa&dates=555555" alt="D3v4nshPat3l streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&cache_seconds=1800" alt="Top languages"/>
 
-  <br/>
+<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff" alt="Activity graph" />
 
-  </div>
-
-  <br/>
-
-  <div align="center">
+</div>
 
   ## `// 02 · TECH STACK`
 
