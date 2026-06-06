@@ -28,9 +28,9 @@
   [![TryHackMe](https://img.shields.io/badge/TRYHACKME-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ImR00t3)
   [![Medium](https://img.shields.io/badge/MEDIUM-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://v3n0m.medium.com/)
 
-  ![](https://komarev.com/ghpvc/?username=D3v4nshPat3l&style=for-the-badge&color=ff3b3b&labelColor=0d1117)
-  ![](https://img.shields.io/github/followers/D3v4nshPat3l?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)
-  ![](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&labelColor=0d1117)
+![](https://komarev.com/ghpvc/?username=D3v4nshPat3l&style=for-the-badge&color=ff3b3b&labelColor=0d1117)
+[![GitHub followers](https://img.shields.io/github/followers/D3v4nshPat3l?label=FOLLOWERS&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117)](https://github.com/D3v4nshPat3l?tab=followers)
+![](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&labelColor=0d1117)
 
   </div>
 
@@ -174,24 +174,22 @@
 
   <div align="center">
 
-  ## `// 03 · TOOLBOX`
-
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,kali,debian,ubuntu,git,github,vscode,docker,postman&theme=dark" alt="Core toolbox" />
-
-  <details>
-    <summary><strong>Learning and exploring stack</strong></summary>
-
-    <br />
-
-    <img src="https://skillicons.dev/icons?i=react,nodejs,rust,go,java,aws,azure,kubernetes&theme=dark" alt="Learning and exploring" />
-
-  </details>
-
-  </div>
-
-  <br/>
-
   <div align="center">
+
+## `// 03 · TOOLBOX`
+
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,kali,debian,ubuntu,git,github,vscode,docker,postman&theme=dark" alt="Core toolbox" />
+
+</div>
+
+<details>
+<summary><strong>Learning and exploring stack</strong></summary>
+<div align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,rust,go,java,aws,azure,kubernetes&theme=dark" alt="Learning and exploring" />
+<br>
+</div>
+</details>
 
   ## `// 04 · OPEN TO COLLABORATE`
 
