@@ -11,7 +11,7 @@
       ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
   ```
 
-  ### `HACKATHON WINNER  ·  CTF PLAYER  ·  BLOG WRITER  ·  TINKERER`
+  ### `HACKATHON WINNER  ·  CTF PLAYER  ·  BLOG WRITER  ·  TINKERER  ·  OSCP Aspirant`
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF3B3B&center=true&vCenter=true&width=760&lines=Cybersecurity+Enthusiast+%7C+Penetration+Tester;Security+Testing+%7C+Bug+Hunting+%7C+OSINT+%7C+CTF;Automate.+Exploit.+Learn.+Repeat." alt="Typing intro" />
 
