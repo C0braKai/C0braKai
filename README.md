@@ -101,7 +101,11 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff" alt="Activity graph" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg"/>
+</picture>
 </div>
 
   ## `// 02 · TECH STACK`
