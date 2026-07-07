@@ -98,7 +98,7 @@
      alt="Devansh Patel GitHub Stats" />
 
 <img height="180"
-     src="https://streak-stats.demolab.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=ff3b3b&fire=ff4444&currStreakLabel=ff3b3b&sideLabels=aaaaaa&dates=555555&timezone=Asia%2FKolkata"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true"
      alt="Devansh Patel GitHub Streak" />
 
 <br/>
