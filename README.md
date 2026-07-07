@@ -93,19 +93,40 @@
 
 ## `// 01 · GITHUB METRICS`
 
-<img height="180" src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&v=20260704b" alt="D3v4nshPat3l stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=ff3b3b&fire=ff4444&currStreakLabel=ff3b3b&sideLabels=aaaaaa&dates=555555&timezone=Asia%2FKolkata&cache_seconds=1800&v=20260704b" alt="D3v4nshPat3l streak"/>
+<img height="180"
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b"
+     alt="Devansh Patel GitHub Stats" />
 
-<img src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs/?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&v=20260704b" alt="Top languages"/>
+<img height="180"
+     src="https://streak-stats.demolab.com/?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=ff3b3b&fire=ff4444&currStreakLabel=ff3b3b&sideLabels=aaaaaa&dates=555555&timezone=Asia%2FKolkata"
+     alt="Devansh Patel GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff&v=20260704b" alt="Activity graph" />
+<img
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&langs_count=8"
+     alt="Devansh Patel Top Languages" />
+
+<br/>
+
+<img
+     src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff"
+     alt="Devansh Patel Activity Graph" />
+
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg" />
+
+  <img
+       alt="Devansh Patel Contribution Snake"
+       src="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg" />
 </picture>
+
 </div>
 
   ## `// 02 · TECH STACK`
