@@ -94,7 +94,7 @@
 ## // 01 · GITHUB METRICS
 
 <img height="180"
-     src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&cache_seconds=86400&v=5"
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=contribs&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&cache_seconds=86400&v=6"
      alt="Devansh Patel GitHub Stats" />
 
 <img height="180"
@@ -104,14 +104,14 @@
 <br/>
 
 <img
-     src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&langs_count=8&cache_seconds=86400&v=5"
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&langs_count=8&cache_seconds=86400&v=6"
      alt="Devansh Patel Top Languages" />
 
 <br/>
 
 <img
-     src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff"
-     alt="Devansh Patel Activity Graph" />
+     src="https://ghchart.rshah.org/ff3b3b/D3v4nshPat3l"
+     alt="Devansh Patel Contribution Graph" />
 
 <br/>
 
