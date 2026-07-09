@@ -94,7 +94,7 @@
 ## // 01 · GITHUB METRICS
 
 <img height="180"
-     src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&cache_seconds=86400&v=4"
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=ff3b3b&text_color=aaaaaa&icon_color=ff3b3b&cache_seconds=86400&v=5"
      alt="Devansh Patel GitHub Stats" />
 
 <img height="180"
@@ -104,7 +104,7 @@
 <br/>
 
 <img
-     src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&langs_count=8&cache_seconds=86400&v=4"
+     src="https://github-readme-stats-beta-lyart-41.vercel.app/api/top-langs?username=D3v4nshPat3l&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=aaaaaa&layout=compact&langs_count=8&cache_seconds=86400&v=5"
      alt="Devansh Patel Top Languages" />
 
 <br/>
