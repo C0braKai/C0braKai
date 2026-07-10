@@ -83,21 +83,134 @@ scope -> recon -> enumerate -> validate -> document -> report -> harden -> repea
 | Reporting | Explain impact, severity, reproduction steps, and realistic remediation |
 | Hardening | Turn findings into configuration, code, or process improvements |
 
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,go,rust,c,linux,kali,ubuntu,docker,git,github,githubactions,vscode,postman&theme=dark" alt="Core technology stack" />
+## `// 04 - TECH STACK`
 
 </div>
 
-| Area | Tools and topics |
-| --- | --- |
-| Recon and OSINT | Nmap, Amass, Subfinder, httpx, DNS, WHOIS, crt.sh, Wayback Machine |
-| Web testing | Burp Suite, OWASP, SQLMap, Nikto, ffuf, Gobuster, API testing |
-| Analysis | Wireshark, tcpdump, CyberChef, Ghidra, Binwalk, Volatility basics |
-| Scripting | Python automation, Bash pipelines, PowerShell utilities, small Go/Rust tools |
-| Infrastructure | Docker, Linux services, Nginx, GitHub Actions, basic cloud security concepts |
+<table>
+  <tr>
+    <td align="right"><strong>LANGUAGES</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=39ff14" alt="Python" />
+      <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=39ff14" alt="Bash" />
+      <img src="https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=39ff14" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=39ff14" alt="Go" />
+      <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=39ff14" alt="Rust" />
+      <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=39ff14" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=39ff14" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=39ff14" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>WEB &amp; API</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=39ff14" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=39ff14" alt="Flask" />
+      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=39ff14" alt="Node.js" />
+      <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=39ff14" alt="React" />
+      <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=39ff14" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=39ff14" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>CLOUD &amp; DEVOPS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=39ff14" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=39ff14" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=39ff14" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=39ff14" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=39ff14" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=39ff14" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=39ff14" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>PLATFORMS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=39ff14" alt="Linux" />
+      <img src="https://img.shields.io/badge/Kali_Linux-111111?style=flat-square&logo=kalilinux&logoColor=39ff14" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=39ff14" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Debian-111111?style=flat-square&logo=debian&logoColor=39ff14" alt="Debian" />
+      <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=39ff14" alt="Windows" />
+      <img src="https://img.shields.io/badge/TOR-111111?style=flat-square&logo=torproject&logoColor=39ff14" alt="Tor" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>RECON &amp; OSINT</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logoColor=39ff14" alt="Nmap" />
+      <img src="https://img.shields.io/badge/Amass-111111?style=flat-square&logoColor=39ff14" alt="Amass" />
+      <img src="https://img.shields.io/badge/Subfinder-111111?style=flat-square&logoColor=39ff14" alt="Subfinder" />
+      <img src="https://img.shields.io/badge/httpx-111111?style=flat-square&logoColor=39ff14" alt="httpx" />
+      <img src="https://img.shields.io/badge/Wayback-111111?style=flat-square&logo=internetarchive&logoColor=39ff14" alt="Wayback Machine" />
+      <img src="https://img.shields.io/badge/Shodan-111111?style=flat-square&logo=shodan&logoColor=39ff14" alt="Shodan" />
+      <img src="https://img.shields.io/badge/Censys-111111?style=flat-square&logoColor=39ff14" alt="Censys" />
+      <img src="https://img.shields.io/badge/VirusTotal-111111?style=flat-square&logo=virustotal&logoColor=39ff14" alt="VirusTotal" />
+      <img src="https://img.shields.io/badge/GreyNoise-111111?style=flat-square&logoColor=39ff14" alt="GreyNoise" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>WEB SECURITY</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=39ff14" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/OWASP-111111?style=flat-square&logo=owasp&logoColor=39ff14" alt="OWASP" />
+      <img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square&logoColor=39ff14" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/Nikto-111111?style=flat-square&logoColor=39ff14" alt="Nikto" />
+      <img src="https://img.shields.io/badge/ffuf-111111?style=flat-square&logoColor=39ff14" alt="ffuf" />
+      <img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square&logoColor=39ff14" alt="Gobuster" />
+      <img src="https://img.shields.io/badge/Nuclei-111111?style=flat-square&logoColor=39ff14" alt="Nuclei" />
+      <img src="https://img.shields.io/badge/ZAP-111111?style=flat-square&logo=zap&logoColor=39ff14" alt="OWASP ZAP" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>EXPLOITATION</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=39ff14" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square&logoColor=39ff14" alt="Hydra" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-111111?style=flat-square&logoColor=39ff14" alt="John the Ripper" />
+      <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square&logoColor=39ff14" alt="Hashcat" />
+      <img src="https://img.shields.io/badge/SearchSploit-111111?style=flat-square&logoColor=39ff14" alt="SearchSploit" />
+      <img src="https://img.shields.io/badge/Exploit--DB-111111?style=flat-square&logo=exploitdb&logoColor=39ff14" alt="Exploit-DB" />
+      <img src="https://img.shields.io/badge/SecLists-111111?style=flat-square&logoColor=39ff14" alt="SecLists" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>FORENSICS &amp; REVERSING</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=39ff14" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/tcpdump-111111?style=flat-square&logoColor=39ff14" alt="tcpdump" />
+      <img src="https://img.shields.io/badge/Ghidra-111111?style=flat-square&logo=ghidra&logoColor=39ff14" alt="Ghidra" />
+      <img src="https://img.shields.io/badge/Binwalk-111111?style=flat-square&logoColor=39ff14" alt="Binwalk" />
+      <img src="https://img.shields.io/badge/Volatility-111111?style=flat-square&logoColor=39ff14" alt="Volatility" />
+      <img src="https://img.shields.io/badge/Autopsy-111111?style=flat-square&logoColor=39ff14" alt="Autopsy" />
+      <img src="https://img.shields.io/badge/CyberChef-111111?style=flat-square&logoColor=39ff14" alt="CyberChef" />
+      <img src="https://img.shields.io/badge/YARA-111111?style=flat-square&logoColor=39ff14" alt="YARA" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>DEFENSE &amp; MONITORING</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wazuh-111111?style=flat-square&logo=wazuh&logoColor=39ff14" alt="Wazuh" />
+      <img src="https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=39ff14" alt="Splunk" />
+      <img src="https://img.shields.io/badge/Elastic-111111?style=flat-square&logo=elastic&logoColor=39ff14" alt="Elastic" />
+      <img src="https://img.shields.io/badge/Snort-111111?style=flat-square&logoColor=39ff14" alt="Snort" />
+      <img src="https://img.shields.io/badge/Suricata-111111?style=flat-square&logoColor=39ff14" alt="Suricata" />
+      <img src="https://img.shields.io/badge/Zeek-111111?style=flat-square&logoColor=39ff14" alt="Zeek" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><strong>CTF &amp; LABS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TryHackMe-111111?style=flat-square&logo=tryhackme&logoColor=39ff14" alt="TryHackMe" />
+      <img src="https://img.shields.io/badge/Hack_The_Box-111111?style=flat-square&logo=hackthebox&logoColor=39ff14" alt="Hack The Box" />
+      <img src="https://img.shields.io/badge/PortSwigger-111111?style=flat-square&logo=portswigger&logoColor=39ff14" alt="PortSwigger" />
+      <img src="https://img.shields.io/badge/PicoCTF-111111?style=flat-square&logoColor=39ff14" alt="picoCTF" />
+      <img src="https://img.shields.io/badge/OverTheWire-111111?style=flat-square&logoColor=39ff14" alt="OverTheWire" />
+    </td>
+  </tr>
+</table>
 
 ## GitHub Metrics
 
