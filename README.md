@@ -12,7 +12,7 @@
 
 <a href="https://www.github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/GitHub-D3v4nshPat3l-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/LinkedIn-Devansh%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://tryhackme.com/p/ByteShell"><img src="https://img.shields.io/badge/TryHackMe-ByteShell-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 <a href="https://v3n0m.medium.com/"><img src="https://img.shields.io/badge/Medium-v3n0m-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
 <br>
@@ -149,7 +149,7 @@ scope -> recon -> enumerate -> validate -> document -> report -> harden -> repea
 
 <a href="https://www.linkedin.com/in/devansh-patel-5ab00a219/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/D3v4nshPat3l"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-<a href="https://tryhackme.com/p/ImR00t3"><img src="https://img.shields.io/badge/TryHackMe-ImR00t3-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" /></a>
+<a href="https://tryhackme.com/p/ByteShell"><img src="https://img.shields.io/badge/TryHackMe-ByteShell-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" /></a>
 
 <br>
 <br>
