@@ -57,7 +57,7 @@ mindset: "Authorized testing, reproducible evidence, clear remediation."
 <div align="center">
 
 <a href="https://github.com/D3v4nshPat3l/ReconTitan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=D3v4nshPat3l&repo=ReconTitan&theme=github_dark&hide_border=true&title_color=f43f5e&icon_color=f43f5e&text_color=c9d1d9&bg_color=0d1117" alt="ReconTitan pinned repository card" />
+  <img src="assets/recontitan-card.svg" alt="ReconTitan project card" width="92%" />
 </a>
 
 </div>
@@ -103,12 +103,7 @@ scope -> recon -> enumerate -> validate -> document -> report -> harden -> repea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&title_color=f43f5e&icon_color=f43f5e&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Devansh Patel GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=f43f5e&fire=f97316&currStreakLabel=f43f5e&sideLabels=c9d1d9&dates=8b949e" alt="Devansh Patel GitHub streak" />
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3v4nshPat3l&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=f43f5e&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Devansh Patel top languages" />
 
 <br>
 <br>
