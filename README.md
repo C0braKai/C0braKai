@@ -216,12 +216,25 @@ scope -> recon -> enumerate -> validate -> document -> report -> harden -> repea
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=D3v4nshPat3l&theme=github-dark-blue&hide_border=true&ring=f43f5e&fire=f97316&currStreakLabel=f43f5e&sideLabels=c9d1d9&dates=8b949e&cache_seconds=1800&v=20260715a" alt="Devansh Patel GitHub streak" />
+<a href="https://github.com/D3v4nshPat3l">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Devansh Patel GitHub stats" />
+</a>
+
+<a href="https://github.com/D3v4nshPat3l">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3v4nshPat3l&theme=github-dark&hide_border=true" alt="Devansh Patel GitHub streak" />
+</a>
 
 <br>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&v=20260715a" alt="Devansh Patel contribution graph" />
+<a href="https://github.com/D3v4nshPat3l">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3v4nshPat3l&layout=compact&theme=github_dark&hide_border=true" alt="Devansh Patel top languages" />
+</a>
+
+<br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Devansh Patel contribution graph" />
 
 <br>
 <br>
