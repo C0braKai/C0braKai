@@ -216,34 +216,7 @@ scope -> recon -> enumerate -> validate -> document -> report -> harden -> repea
 
 <div align="center">
 
-<a href="https://github.com/D3v4nshPat3l">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3v4nshPat3l&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Devansh Patel GitHub stats" />
-</a>
-
-<a href="https://github.com/D3v4nshPat3l">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3v4nshPat3l&theme=github-dark&hide_border=true" alt="Devansh Patel GitHub streak" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/D3v4nshPat3l">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3v4nshPat3l&layout=compact&theme=github_dark&hide_border=true" alt="Devansh Patel top languages" />
-</a>
-
-<br>
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3v4nshPat3l&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Devansh Patel contribution graph" />
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg" />
-  <img alt="Devansh Patel contribution snake" src="https://raw.githubusercontent.com/D3v4nshPat3l/D3v4nshPat3l/output/github-snake.svg" />
-</picture>
+<p><em>GitHub stats are currently hidden.</em></p>
 
 </div>
 
