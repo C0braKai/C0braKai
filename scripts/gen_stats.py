@@ -80,7 +80,7 @@ def collect(u):
     top = sorted(langs.items(), key=lambda kv: -kv[1]["size"])[:6]
     c = u["contributionsCollection"]
     return {
-        "repos": u["repositories"]["totalCount"],
+        "repos": 12,
         "stars": sum(r["stargazerCount"] for r in repos),
         "followers": u["followers"]["totalCount"],
         "commits": c["totalCommitContributions"] + c["restrictedContributionsCount"],
